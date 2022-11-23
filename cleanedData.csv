@@ -1,0 +1,720 @@
+Index,Name,Engine,FuelType,KM,Year,Price,Location
+0,Renault Clio Lovely High Spec Clio,1.1,Petrol,87750,2017,12500,Dublin
+1,Renault Captur dCi 90 Expression,1.5,Diesel,107000,2018,16950,Kildare
+2,Renault Clio E-tech HEV 140 My20 Hybrid Available,1.6,Petrol,20,2022,30870,Carlow
+3,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,5950,Dublin
+5,Renault clio IV Dynamique,1.1,Petrol,106000,2013,8450,Meath
+8,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,10950,Carlow
+11,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,3250,Limerick
+12,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,7900,Kerry
+13,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,1650,Dublin
+14,"Renault Clio, 2007",1.1,Petrol,201772,2007,14600,Kilkenny
+15,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,16995,Galway
+16,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,20745,Louth
+17,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,6850,Dublin
+20,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,13695,Cork
+22,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,16995,Limerick
+23,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,6350,Waterford
+24,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,1750,Kerry
+26,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,22250,Waterford
+28,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,26951,Cork
+29,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,18450,Kildare
+30,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,15495,Clare
+31,Renault Laguna 2009,1.9,Diesel,181000,2009,20995,Sligo
+32,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,41950,Waterford
+33,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,60239,Waterford
+34,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,47950,Dublin
+35,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,11950,Dublin
+39,Renault Zoe Expression,0,Electric,59984,2016,5950,Carlow
+40,2013 RENAULT FLUENCE,1.5,Diesel,125000,2013,45488,Dublin
+41,Renault Clio Lovely High Spec Clio,1.1,Petrol,87750,2017,8450,Dublin
+42,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,3999,Dublin
+44,Renault clio IV Dynamique,1.1,Petrol,106000,2013,10950,Meath
+47,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,3250,Carlow
+50,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,14600,Limerick
+51,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,16995,Kerry
+52,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,20745,Dublin
+53,"Renault Clio, 2007",1.1,Petrol,201772,2007,6850,Kilkenny
+54,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,5600,Galway
+55,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,13950,Louth
+56,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,13695,Dublin
+59,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,6350,Cork
+61,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,17995,Limerick
+62,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,22250,Waterford
+63,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,25490,Kerry
+65,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,18450,Waterford
+67,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,20995,Cork
+68,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,10495,Kildare
+69,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,25995,Kildare
+70,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,10495,Clare
+71,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,18495,Clare
+72,Renault Laguna 2009,1.9,Diesel,181000,2009,18495,Sligo
+73,Renault Laguna 2009,1.9,Diesel,181000,2009,3250,Sligo
+74,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,3250,Waterford
+75,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,8395,Waterford
+76,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,8395,Dublin
+77,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,5950,Dublin
+81,Renault Megane GT NAV TCE 205 EDC Hatch,1.6,Petrol,83500,2017,8450,Carlow
+84,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,10950,Dublin
+86,Renault clio IV Dynamique,1.1,Petrol,106000,2013,18990,Meath
+88,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,1650,Carlow
+91,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,20745,Limerick
+92,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,6850,Kerry
+93,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,5600,Dublin
+94,"Renault Clio, 2007",1.1,Petrol,201772,2007,13950,Kilkenny
+95,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,13695,Galway
+96,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,10695,Louth
+97,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,16995,Dublin
+100,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,17995,Cork
+102,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,25490,Limerick
+103,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,26951,Waterford
+104,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,18450,Kerry
+106,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,20995,Waterford
+109,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,10495,Cork
+110,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,17950,Cork
+111,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,17950,Kildare
+112,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,4500,Kildare
+113,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,4500,Clare
+114,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,13295,Clare
+115,Renault Laguna 2009,1.9,Diesel,181000,2009,13295,Sligo
+116,Renault Laguna 2009,1.9,Diesel,181000,2009,5950,Sligo
+117,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,5950,Waterford
+118,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,45488,Waterford
+119,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,45488,Dublin
+120,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,8450,Dublin
+125,Renault Fluence 2012,1.5,Diesel,140686,2012,10950,Limerick
+126,"Renault Captur, 2016",1.5,Diesel,74552,2016,3250,Dublin
+127,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,18990,Dublin
+128,Renault clio IV Dynamique,1.1,Petrol,106000,2013,7900,Meath
+131,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,16995,Carlow
+134,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,5600,Limerick
+135,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,13950,Kerry
+136,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,13695,Dublin
+137,"Renault Clio, 2007",1.1,Petrol,201772,2007,10695,Kilkenny
+138,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,6350,Louth
+139,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,1750,Dublin
+142,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,25490,Cork
+144,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,18450,Limerick
+145,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,15495,Waterford
+146,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,20995,Kerry
+149,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,33949,Waterford
+150,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,4500,Waterford
+153,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,26950,Cork
+154,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,34950,Cork
+155,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,34950,Kildare
+156,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,5950,Kildare
+157,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,5950,Clare
+158,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,45488,Clare
+159,Renault Laguna 2009,1.9,Diesel,181000,2009,45488,Sligo
+160,Renault Laguna 2009,1.9,Diesel,181000,2009,8450,Sligo
+161,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,8450,Waterford
+162,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,3999,Waterford
+163,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,3999,Dublin
+168,Renault Fluence 2012,1.5,Diesel,140686,2012,3250,Limerick
+169,Renault KADJAR Iconic Blue DCI 115 (059)9141377,1.5,Diesel,42600,2020,18990,Carlow
+170,Renault Arkana R.s. Line TCE 140 Auto Mild Hybrid,1.3,Petrol,29015,2021,3250,Carlow
+171,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,7900,Dublin
+173,Renault clio IV Dynamique,1.1,Petrol,106000,2013,14600,Meath
+176,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,6850,Carlow
+179,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,13695,Limerick
+180,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,10695,Kerry
+181,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,16995,Dublin
+182,"Renault Clio, 2007",1.1,Petrol,201772,2007,6350,Kilkenny
+183,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,1750,Galway
+184,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,17995,Louth
+185,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,22250,Dublin
+188,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,18450,Cork
+190,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,20995,Limerick
+191,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,41950,Waterford
+192,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,60239,Waterford
+193,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,47950,Kerry
+194,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,30870,Kerry
+197,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,6300,Waterford
+198,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,5950,Waterford
+201,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,45488,Cork
+202,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,8450,Cork
+203,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,8450,Kildare
+204,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,3999,Kildare
+205,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,3999,Clare
+208,Renault Laguna 2009,1.9,Diesel,181000,2009,10950,Sligo
+209,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,10950,Waterford
+210,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,3250,Dublin
+211,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,18990,Dublin
+215,Renault Clio E-tech HEV 140 My20 Hybrid Available,1.6,Petrol,20,2022,7900,Carlow
+216,Renault Grand Megane 2012,1.5,Diesel,129180,2012,1650,Wicklow
+217,2013 RENAULT FLUENCE,1.5,Diesel,125000,2013,14600,Dublin
+218,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,16995,Dublin
+220,Renault clio IV Dynamique,1.1,Petrol,106000,2013,6850,Meath
+223,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,13695,Carlow
+225,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,6350,Limerick
+226,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,1750,Kerry
+227,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,17995,Dublin
+228,"Renault Clio, 2007",1.1,Petrol,201772,2007,22250,Kilkenny
+229,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,25490,Galway
+230,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,26951,Louth
+231,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,18450,Dublin
+234,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,10495,Cork
+235,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,25995,Cork
+238,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,16950,Limerick
+239,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,12500,Limerick
+240,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,12500,Waterford
+241,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,25950,Waterford
+242,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,25950,Kerry
+243,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,5950,Kerry
+246,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,45488,Waterford
+247,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,8450,Waterford
+250,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,3999,Cork
+253,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,10950,Kildare
+254,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,10950,Clare
+255,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,3250,Clare
+256,Renault Laguna 2009,1.9,Diesel,181000,2009,18990,Sligo
+257,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,18990,Waterford
+258,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,7900,Dublin
+262,Renault Clio Dynamique TCE 100 My19 5DR V,1,Petrol,17999,2020,14600,Cork
+263,Renault Clio Lovely High Spec Clio,1.1,Petrol,87750,2017,16995,Dublin
+264,RENAULT MASTER 2.3 LM35 DCI BUSINESS,2.3,Diesel,91000,2020,20745,Wicklow
+265,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,6850,Dublin
+267,Renault clio IV Dynamique,1.1,Petrol,106000,2013,13950,Meath
+272,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,17995,Limerick
+273,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,22250,Kerry
+274,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,25490,Dublin
+275,"Renault Clio, 2007",1.1,Petrol,201772,2007,26951,Kilkenny
+276,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,18450,Galway
+277,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,15495,Louth
+278,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,20995,Dublin
+282,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,16995,Cork
+283,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,19999,Cork
+286,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,30870,Limerick
+287,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,5950,Limerick
+288,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,5950,Waterford
+289,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,45488,Waterford
+290,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,45488,Kerry
+291,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,8450,Kerry
+294,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,3999,Waterford
+298,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,10950,Cork
+299,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,3250,Cork
+300,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,3250,Kildare
+301,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,18990,Kildare
+302,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,18990,Clare
+303,Renault Laguna 2009,1.9,Diesel,181000,2009,7900,Sligo
+304,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,7900,Waterford
+305,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,1650,Waterford
+306,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,1650,Dublin
+307,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,14600,Dublin
+313,Renault Clio E-tech HEV 140 My20 Hybrid Available,1.6,Petrol,20,2022,5600,Carlow
+314,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,13950,Dublin
+316,Renault clio IV Dynamique,1.1,Petrol,106000,2013,10695,Meath
+318,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,1750,Carlow
+321,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,25490,Limerick
+322,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,26951,Kerry
+323,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,18450,Dublin
+324,"Renault Clio, 2007",1.1,Petrol,201772,2007,15495,Kilkenny
+325,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,20995,Galway
+326,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,10495,Louth
+327,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,25995,Louth
+328,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,10495,Dublin
+329,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,14950,Dublin
+334,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,5950,Cork
+335,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,45488,Cork
+338,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,8450,Limerick
+339,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,3999,Limerick
+340,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,3999,Waterford
+343,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,10950,Kerry
+346,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,3250,Waterford
+347,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,18990,Waterford
+350,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,7900,Cork
+351,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,7900,Kildare
+352,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,1650,Kildare
+353,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,1650,Clare
+354,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,14600,Clare
+355,Renault Laguna 2009,1.9,Diesel,181000,2009,14600,Sligo
+356,Renault Laguna 2009,1.9,Diesel,181000,2009,16995,Sligo
+357,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,16995,Waterford
+358,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,20745,Waterford
+359,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,20745,Dublin
+360,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,6850,Dublin
+364,Renault Megane  Dynamique S Nav 2017,1.5,Diesel,146000,2017,13950,Clare
+365,Renault Captur TCe 100 Iconic Petrol Only 8890 Kms,1,Petrol,100,2020,13695,Carlow
+368,Renault clio IV Dynamique,1.1,Petrol,106000,2013,1750,Meath
+371,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,25490,Carlow
+374,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,15495,Limerick
+375,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,20995,Kerry
+376,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,17449,Dublin
+377,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,55949,Dublin
+378,"Renault Clio, 2007",1.1,Petrol,201772,2007,33949,Kilkenny
+379,"Renault Clio, 2007",1.1,Petrol,201772,2007,6300,Kilkenny
+380,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,6300,Galway
+381,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,1700,Galway
+382,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,1700,Louth
+383,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,32950,Louth
+384,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,32950,Dublin
+385,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,5950,Dublin
+390,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,8450,Cork
+391,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,3999,Cork
+395,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,10950,Limerick
+396,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,10950,Waterford
+397,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,3250,Waterford
+398,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,3250,Kerry
+399,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,18990,Kerry
+401,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,7900,Waterford
+404,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,1650,Cork
+405,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,14600,Cork
+406,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,14600,Kildare
+407,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,16995,Kildare
+408,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,16995,Clare
+409,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,20745,Clare
+410,Renault Laguna 2009,1.9,Diesel,181000,2009,20745,Sligo
+411,Renault Laguna 2009,1.9,Diesel,181000,2009,6850,Sligo
+412,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,6850,Waterford
+413,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,5600,Waterford
+414,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,5600,Dublin
+415,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,13950,Dublin
+419,Renault Grand Megane 2012,1.5,Diesel,129180,2012,10695,Wicklow
+420,Car,1.5,Diesel,178790,2010,16995,Cork
+421,Renault Zoe R135 Z.E 50 GT Line CCS Rapid Charge,0,Electric,8000,2021,6350,Kildare
+422,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,1750,Dublin
+424,Renault clio IV Dynamique,1.1,Petrol,106000,2013,22250,Meath
+427,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,18450,Carlow
+430,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,17449,Limerick
+431,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,55949,Limerick
+432,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,33949,Kerry
+433,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,16450,Kerry
+434,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,16450,Dublin
+435,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,32950,Dublin
+436,"Renault Clio, 2007",1.1,Petrol,201772,2007,32950,Kilkenny
+437,"Renault Clio, 2007",1.1,Petrol,201772,2007,16950,Kilkenny
+438,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,16950,Galway
+439,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,5950,Galway
+440,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,5950,Louth
+441,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,45488,Louth
+442,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,45488,Dublin
+443,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,8450,Dublin
+449,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,10950,Cork
+452,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,3250,Limerick
+453,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,18990,Limerick
+454,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,18990,Waterford
+455,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,7900,Kerry
+458,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,1650,Waterford
+459,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,14600,Waterford
+462,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,16995,Cork
+463,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,20745,Cork
+464,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,20745,Kildare
+465,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,6850,Kildare
+466,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,6850,Clare
+467,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,5600,Clare
+468,Renault Laguna 2009,1.9,Diesel,181000,2009,5600,Sligo
+469,Renault Laguna 2009,1.9,Diesel,181000,2009,13950,Sligo
+470,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,13950,Waterford
+471,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,13695,Waterford
+472,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,13695,Dublin
+473,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,10695,Dublin
+477,Renault Megane Sport Tourer Dynamique ( One Owner,1.5,Diesel,165004,2018,6350,Dublin
+478,Renault Zoe R135 Z.E 50 GT Line CCS Rapid Charge,0,Electric,8000,2021,1750,Kildare
+479,Renault Clio Dynamique TCE 100 My19 5DR V,1,Petrol,17999,2020,17995,Cork
+480,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,22250,Dublin
+482,Renault clio IV Dynamique,1.1,Petrol,106000,2013,26951,Meath
+485,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,20995,Carlow
+490,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,17950,Limerick
+491,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,6999,Limerick
+492,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,6999,Kerry
+493,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,10250,Kerry
+494,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,10250,Dublin
+495,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,5950,Dublin
+496,"Renault Clio, 2007",1.1,Petrol,201772,2007,5950,Kilkenny
+497,"Renault Clio, 2007",1.1,Petrol,201772,2007,45488,Kilkenny
+498,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,45488,Galway
+499,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,8450,Galway
+500,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,8450,Louth
+501,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,3999,Louth
+502,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,3999,Dublin
+508,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,3250,Cork
+509,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,18990,Cork
+511,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,7900,Limerick
+512,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,7900,Waterford
+513,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,1650,Waterford
+514,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,1650,Kerry
+515,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,14600,Kerry
+518,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,16995,Waterford
+519,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,20745,Waterford
+522,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,6850,Cork
+523,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,5600,Cork
+524,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,5600,Kildare
+525,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,13950,Kildare
+526,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,13950,Clare
+527,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,13695,Clare
+528,Renault Laguna 2009,1.9,Diesel,181000,2009,13695,Sligo
+529,Renault Laguna 2009,1.9,Diesel,181000,2009,10695,Sligo
+530,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,10695,Waterford
+531,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,16995,Dublin
+532,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,6350,Dublin
+536,Renault Megane 1.3 TCe 140 GPF Play (059) 914177,1.3,Petrol,50500,2019,17995,Carlow
+538,Renault Fluence 2016,1.5,Diesel,122852,2016,25490,Limerick
+539,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,26951,Dublin
+541,Renault clio IV Dynamique,1.1,Petrol,106000,2013,15495,Meath
+545,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,33949,Carlow
+546,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,1700,Carlow
+551,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,25950,Limerick
+552,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,5950,Limerick
+553,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,5950,Kerry
+554,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,45488,Kerry
+555,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,45488,Dublin
+556,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,8450,Dublin
+557,"Renault Clio, 2007",1.1,Petrol,201772,2007,8450,Kilkenny
+558,"Renault Clio, 2007",1.1,Petrol,201772,2007,3999,Kilkenny
+559,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,3999,Galway
+562,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,10950,Louth
+563,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,10950,Dublin
+564,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,3250,Dublin
+568,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,7900,Cork
+571,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,1650,Limerick
+572,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,14600,Limerick
+573,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,14600,Waterford
+574,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,16995,Waterford
+575,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,16995,Kerry
+576,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,20745,Kerry
+579,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,6850,Waterford
+580,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,5600,Waterford
+583,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,13950,Cork
+584,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,13695,Cork
+585,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,13695,Kildare
+586,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,10695,Kildare
+587,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,10695,Clare
+588,Renault Laguna 2009,1.9,Diesel,181000,2009,6350,Sligo
+589,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,6350,Waterford
+590,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,1750,Waterford
+591,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,1750,Dublin
+592,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,17995,Dublin
+596,Car,1.5,Diesel,178790,2010,25490,Cork
+597,Renault Fluence 2012,1.5,Diesel,140686,2012,26951,Limerick
+598,RENAULT MASTER 2.3 LM35 DCI BUSINESS,2.3,Diesel,91000,2020,18450,Wicklow
+599,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,15495,Dublin
+601,Renault clio IV Dynamique,1.1,Petrol,106000,2013,17449,Meath
+602,Renault clio IV Dynamique,1.1,Petrol,106000,2013,55949,Meath
+607,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,17950,Carlow
+608,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,30870,Carlow
+613,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,45488,Limerick
+614,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,8450,Limerick
+615,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,8450,Kerry
+616,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,3999,Kerry
+617,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,3999,Dublin
+620,"Renault Clio, 2007",1.1,Petrol,201772,2007,10950,Kilkenny
+621,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,10950,Galway
+622,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,3250,Galway
+623,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,3250,Louth
+624,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,18990,Louth
+625,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,18990,Dublin
+629,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,1650,Cork
+630,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,14600,Cork
+633,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,20745,Limerick
+634,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,20745,Waterford
+635,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,6850,Waterford
+636,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,6850,Kerry
+637,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,5600,Kerry
+640,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,13950,Waterford
+641,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,13695,Waterford
+644,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,10695,Cork
+645,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,6350,Kildare
+646,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,6350,Clare
+647,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,1750,Clare
+648,Renault Laguna 2009,1.9,Diesel,181000,2009,1750,Sligo
+649,Renault Laguna 2009,1.9,Diesel,181000,2009,17995,Sligo
+650,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,17995,Waterford
+651,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,22250,Waterford
+652,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,22250,Dublin
+653,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,25490,Dublin
+657,Renault KADJAR Iconic Blue DCI 115 (059)9141377,1.5,Diesel,42600,2020,18450,Carlow
+658,Renault Megane 1.3 TCe 140 GPF Play (059) 914177,1.3,Petrol,50500,2019,15495,Carlow
+659,Renault Clio E-tech HEV 140 My20 Hybrid Available,1.6,Petrol,20,2022,20995,Carlow
+660,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,41950,Dublin
+661,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,60239,Dublin
+664,Renault clio IV Dynamique,1.1,Petrol,106000,2013,6300,Meath
+665,Renault clio IV Dynamique,1.1,Petrol,106000,2013,9300,Meath
+669,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,5950,Carlow
+670,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,45488,Carlow
+675,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,3999,Limerick
+678,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,10950,Kerry
+679,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,10950,Dublin
+680,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,3250,Dublin
+681,"Renault Clio, 2007",1.1,Petrol,201772,2007,3250,Kilkenny
+682,"Renault Clio, 2007",1.1,Petrol,201772,2007,18990,Kilkenny
+683,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,18990,Galway
+684,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,7900,Louth
+685,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,7900,Dublin
+686,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,1650,Dublin
+690,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,20745,Cork
+693,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,6850,Limerick
+694,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,5600,Limerick
+695,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,5600,Waterford
+696,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,13950,Waterford
+697,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,13950,Kerry
+698,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,13695,Kerry
+701,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,10695,Waterford
+703,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,6350,Cork
+704,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,1750,Cork
+705,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,1750,Kildare
+706,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,17995,Kildare
+707,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,17995,Clare
+708,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,22250,Clare
+709,Renault Laguna 2009,1.9,Diesel,181000,2009,22250,Sligo
+710,Renault Laguna 2009,1.9,Diesel,181000,2009,25490,Sligo
+711,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,25490,Waterford
+712,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,26951,Waterford
+713,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,26951,Dublin
+714,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,18450,Dublin
+718,Renault Grand Megane 2012,1.5,Diesel,129180,2012,20995,Wicklow
+721,Renault Megane 1.3 TCe 140 GPF Play (059) 914177,1.3,Petrol,50500,2019,47950,Carlow
+722,Renault Megane 1.3 TCe 140 GPF Play (059) 914177,1.3,Petrol,50500,2019,10250,Carlow
+723,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,10250,Dublin
+724,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,9300,Dublin
+727,Renault clio IV Dynamique,1.1,Petrol,106000,2013,16450,Meath
+728,Renault clio IV Dynamique,1.1,Petrol,106000,2013,5950,Meath
+733,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,8450,Carlow
+734,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,3999,Carlow
+739,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,10950,Limerick
+740,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,3250,Kerry
+741,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,18990,Kerry
+742,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,18990,Dublin
+743,"Renault Clio, 2007",1.1,Petrol,201772,2007,7900,Kilkenny
+744,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,7900,Galway
+745,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,1650,Galway
+746,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,1650,Louth
+747,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,14600,Louth
+748,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,14600,Dublin
+753,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,6850,Cork
+754,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,5600,Cork
+757,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,13950,Limerick
+758,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,13695,Limerick
+759,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,13695,Waterford
+760,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,10695,Waterford
+761,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,10695,Kerry
+763,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,6350,Waterford
+764,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,1750,Waterford
+767,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,17995,Cork
+768,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,22250,Cork
+769,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,22250,Kildare
+770,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,25490,Kildare
+771,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,25490,Clare
+772,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,26951,Clare
+773,Renault Laguna 2009,1.9,Diesel,181000,2009,26951,Sligo
+774,Renault Laguna 2009,1.9,Diesel,181000,2009,18450,Sligo
+775,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,18450,Waterford
+776,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,15495,Waterford
+777,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,15495,Dublin
+778,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,20995,Dublin
+782,Renault Fluence 2016,1.5,Diesel,122852,2016,10495,Limerick
+783,Renault Fluence 2016,1.5,Diesel,122852,2016,9300,Limerick
+786,Renault Megane Sport Tourer Dynamique ( One Owner,1.5,Diesel,165004,2018,16950,Dublin
+787,Renault Megane Sport Tourer Dynamique ( One Owner,1.5,Diesel,165004,2018,16450,Dublin
+788,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,16450,Dublin
+790,Renault clio IV Dynamique,1.1,Petrol,106000,2013,45488,Meath
+796,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,18990,Limerick
+797,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,7900,Dublin
+798,"Renault Clio, 2007",1.1,Petrol,201772,2007,1650,Kilkenny
+799,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,14600,Galway
+800,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,16995,Louth
+801,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,20745,Dublin
+804,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,13950,Cork
+806,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,10695,Limerick
+807,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,6350,Kerry
+809,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,17995,Waterford
+811,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,25490,Cork
+812,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,26951,Kildare
+813,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,18450,Clare
+814,Renault Laguna 2009,1.9,Diesel,181000,2009,15495,Sligo
+815,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,20995,Waterford
+816,Renault KADJAR 1.5 dCi 110 Energy Dynamique Nav,1.5,Diesel,118668,2018,60239,Dublin
+822,Renault Captur dCi 90 Expression,1.5,Diesel,107000,2018,35249,Kildare
+823,Renault Captur dCi 90 Expression,1.5,Diesel,107000,2018,5950,Kildare
+824,Renault Megane Sport Tourer Dynamique ( One Owner,1.5,Diesel,165004,2018,5950,Dublin
+825,Renault Megane Sport Tourer Dynamique ( One Owner,1.5,Diesel,165004,2018,45488,Dublin
+826,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,45488,Dublin
+827,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,8450,Dublin
+830,Renault clio IV Dynamique,1.1,Petrol,106000,2013,3999,Meath
+836,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,18990,Carlow
+839,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,7900,Limerick
+840,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,1650,Limerick
+841,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,1650,Kerry
+842,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,14600,Kerry
+843,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,14600,Dublin
+844,"Renault Clio, 2007",1.1,Petrol,201772,2007,16995,Kilkenny
+845,"Renault Clio, 2007",1.1,Petrol,201772,2007,20745,Kilkenny
+846,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,20745,Galway
+847,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,6850,Galway
+848,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,6850,Louth
+849,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,5600,Louth
+850,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,5600,Dublin
+851,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,13950,Dublin
+856,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,10695,Cork
+858,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,6350,Limerick
+859,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,1750,Limerick
+860,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,1750,Waterford
+861,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,17995,Waterford
+862,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,17995,Kerry
+863,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,22250,Kerry
+866,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,25490,Waterford
+867,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,26951,Waterford
+870,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,18450,Cork
+871,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,15495,Cork
+872,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,15495,Kildare
+873,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,20995,Kildare
+874,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,20995,Clare
+875,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,41950,Clare
+876,Renault Laguna 2009,1.9,Diesel,181000,2009,60239,Sligo
+877,Renault Laguna 2009,1.9,Diesel,181000,2009,47950,Sligo
+878,** € 9 PER DAY ** 191 RENAULT CLIO,0.9,Petrol,54786,2019,12500,Waterford
+884,Renault Fluence 1.5 DCI 95 Limited (059) 9141377,1.5,Diesel,98500,2015,8450,Carlow
+885,Renault Fluence 1.5 DCI 95 Limited (059) 9141377,1.5,Diesel,98500,2015,3999,Carlow
+886,Renault Arkana S Edition E-tech Hybrid 145 Auto,1.6,Petrol,7599,2022,3999,Laois
+890,Renault clio IV Dynamique,1.1,Petrol,106000,2013,3250,Meath
+892,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,7900,Carlow
+895,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,16995,Limerick
+896,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,20745,Kerry
+897,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,6850,Dublin
+898,"Renault Clio, 2007",1.1,Petrol,201772,2007,5600,Kilkenny
+899,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,13950,Galway
+900,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,13695,Louth
+901,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,10695,Dublin
+903,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,1750,Cork
+905,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,22250,Limerick
+906,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,25490,Waterford
+907,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,26951,Kerry
+909,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,15495,Waterford
+912,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,60239,Cork
+913,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,47950,Cork
+914,Renault Scenic Play Blue DCI 120 My18,1.8,Diesel,9,2020,35249,Kildare
+915,Renault KADJAR 1.5 Diesel Dynamique S Nav,1.5,Diesel,124612,2017,14750,Clare
+916,Renault Laguna 2009,1.9,Diesel,181000,2009,25950,Sligo
+920,2013 RENAULT FLUENCE,1.5,Diesel,125000,2013,3999,Dublin
+923,Renault Clio Lovely High Spec Clio,1.1,Petrol,87750,2017,10950,Dublin
+926,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,3250,Dublin
+930,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,14600,Carlow
+933,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,6850,Limerick
+934,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,5600,Kerry
+935,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,13950,Dublin
+936,"Renault Clio, 2007",1.1,Petrol,201772,2007,13695,Kilkenny
+937,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,10695,Galway
+938,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,6350,Dublin
+941,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,22250,Cork
+943,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,26951,Limerick
+944,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,18450,Waterford
+945,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,15495,Kerry
+948,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,60239,Waterford
+949,Renault Clio Automatic Lights and Wipers  Multifu,1,Petrol,60872,2021,47950,Waterford
+951,Renault KADJAR S-edition Blue dCi,1.5,Diesel,29200,2019,14950,Cork
+954,Renault Arkana S Edition E-tech Hybrid 145 Auto,1.6,Petrol,7599,2022,3250,Laois
+955,Renault Arkana S Edition E-tech Hybrid 145 Auto,1.6,Petrol,7599,2022,18990,Laois
+958,RENAULT MASTER 2.3 LM35 DCI BUSINESS,2.3,Diesel,91000,2020,3250,Wicklow
+959,RENAULT MASTER 2.3 LM35 DCI BUSINESS,2.3,Diesel,91000,2020,7900,Wicklow
+960,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,1650,Dublin
+962,Renault clio IV Dynamique,1.1,Petrol,106000,2013,16995,Meath
+965,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,5600,Carlow
+968,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,10695,Limerick
+969,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,6350,Dublin
+970,"Renault Clio, 2007",1.1,Petrol,201772,2007,1750,Kilkenny
+971,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,17995,Galway
+972,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,22250,Louth
+973,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,25490,Dublin
+976,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,15495,Cork
+978,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,10495,Limerick
+979,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,25995,Waterford
+980,Renault KADJAR Alloy Wheels  Chrome Trim  Front F,1.5,Diesel,79800,2016,10495,Waterford
+981,2013 RENAULT CLIO 1.2 PETROL NCT 7/23 TAXED 1/23,1.2,Petrol,145000,2013,16950,Kerry
+985,Renault Clio Lovely High Spec Clio,1.1,Petrol,87750,2017,7900,Dublin
+986,Renault Clio Lovely High Spec Clio,1.1,Petrol,87750,2017,1650,Dublin
+989,Renault Megane  Dynamique S Nav 2017,1.5,Diesel,146000,2017,14600,Clare
+990,Renault Megane  Dynamique S Nav 2017,1.5,Diesel,146000,2017,16995,Clare
+991,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,20745,Dublin
+993,Renault clio IV Dynamique,1.1,Petrol,106000,2013,5600,Meath
+996,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,10695,Carlow
+998,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,1750,Limerick
+999,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,17995,Kerry
+1000,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,22250,Dublin
+1001,"Renault Clio, 2007",1.1,Petrol,201772,2007,25490,Kilkenny
+1002,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,26951,Galway
+1003,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,18450,Louth
+1004,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,15495,Dublin
+1007,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,60239,Cork
+1008,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,47950,Cork
+1010,2016 Renault Fluence Limited Edition 1.5 dci,1.5,Diesel,156855,2016,13295,Limerick
+1013,Renault Captur dCi 90 Expression,1.5,Diesel,107000,2018,14600,Kildare
+1014,Renault Captur dCi 90 Expression,1.5,Diesel,107000,2018,16995,Kildare
+1019,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,5600,Dublin
+1021,Renault clio IV Dynamique,1.1,Petrol,106000,2013,13695,Meath
+1024,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,6350,Carlow
+1027,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,22250,Limerick
+1028,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,25490,Kerry
+1029,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,26951,Dublin
+1030,"Renault Clio, 2007",1.1,Petrol,201772,2007,18450,Kilkenny
+1031,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,15495,Galway
+1032,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,20995,Louth
+1033,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,17449,Dublin
+1037,Renault Fluence 1.5 Limited Saloon Diesel Manual,1.5,Diesel,183295,2016,13295,Cork
+1042,Renault KADJAR Iconic Blue DCI 115 (059)9141377,1.5,Diesel,42600,2020,20745,Carlow
+1043,Renault KADJAR Iconic Blue DCI 115 (059)9141377,1.5,Diesel,42600,2020,6850,Carlow
+1044,"Renault Captur, 2016",1.5,Diesel,74552,2016,6850,Dublin
+1045,"Renault Captur, 2016",1.5,Diesel,74552,2016,5600,Dublin
+1046,RENAULT MASTER 2.3 LM35 DCI BUSINESS,2.3,Diesel,91000,2020,5600,Wicklow
+1047,RENAULT MASTER 2.3 LM35 DCI BUSINESS,2.3,Diesel,91000,2020,13950,Wicklow
+1048,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,13695,Dublin
+1052,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,17995,Carlow
+1055,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,26951,Limerick
+1056,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,18450,Kerry
+1057,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,15495,Dublin
+1058,"Renault Clio, 2007",1.1,Petrol,201772,2007,20995,Kilkenny
+1059,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,17449,Galway
+1060,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,55949,Louth
+1061,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,33949,Louth
+1062,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,23650,Dublin
+1068,Renault Megane Sport Tourer Dynamique ( One Owner,1.5,Diesel,165004,2018,5600,Dublin
+1069,Renault Megane Sport Tourer Dynamique ( One Owner,1.5,Diesel,165004,2018,13950,Dublin
+1070,"Renault Captur, 2016",1.5,Diesel,74552,2016,13950,Dublin
+1071,"Renault Captur, 2016",1.5,Diesel,74552,2016,13695,Dublin
+1072,Renault Arkana R.s. Line TCE 140 Auto Mild Hybrid,1.3,Petrol,29015,2021,13695,Carlow
+1073,Renault Arkana R.s. Line TCE 140 Auto Mild Hybrid,1.3,Petrol,29015,2021,10695,Carlow
+1074,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,10695,Dublin
+1076,Renault clio IV Dynamique,1.1,Petrol,106000,2013,6350,Meath
+1079,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,22250,Carlow
+1082,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,18450,Limerick
+1083,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,15495,Kerry
+1084,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,20995,Dublin
+1085,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,10495,Dublin
+1086,"Renault Clio, 2007",1.1,Petrol,201772,2007,25995,Kilkenny
+1087,"Renault Clio, 2007",1.1,Petrol,201772,2007,10495,Kilkenny
+1088,Renault Grand Scenic 1.5 DCI  bose 7 Seater,1.5,Diesel,122103,2016,30870,Louth
+1089,Renault Clio Dynamique TCe 90,1,Petrol,11014,2022,14750,Dublin
+1091,Renault Captur TCe 100 Iconic Petrol Only 8890 Kms,1,Petrol,100,2020,10695,Carlow
+1092,"Renault Captur, 2016",1.5,Diesel,74552,2016,10695,Dublin
+1093,"Renault Captur, 2016",1.5,Diesel,74552,2016,16995,Dublin
+1096,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,6350,Dublin
+1098,Renault clio IV Dynamique,1.1,Petrol,106000,2013,17995,Meath
+1101,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,26951,Carlow
+1104,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,20995,Limerick
+1105,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,10495,Limerick
+1106,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,25995,Kerry
+1107,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,10495,Kerry
+1108,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,16950,Dublin
+1109,"Renault Clio, 2007",1.1,Petrol,201772,2007,4950,Kilkenny
+1110,Renault Trafic Trafic Ll29 Energy DCI 125 BUS,1.6,Diesel,130548,2017,34950,Galway
+1115,Renault Clio E-tech HEV 140 My20 Hybrid Available,1.6,Petrol,20,2022,6350,Carlow
+1116,Renault Clio E-tech HEV 140 My20 Hybrid Available,1.6,Petrol,20,2022,1750,Carlow
+1119,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,17995,Dublin
+1121,Renault clio IV Dynamique,1.1,Petrol,106000,2013,25490,Meath
+1124,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,15495,Carlow
+1127,Renault Megane Sport Tourer Iconic TCE 5DR,1.3,Petrol,49265,2019,6950,Limerick
+1128,2010 Renault Fluence just NCT passed,1.5,Diesel,186000,2010,18449,Kerry
+1129,Renault Grand Scenic Long Nct  Leather  Pristine,1.5,Diesel,160934,2012,1700,Dublin
+1131,Renault Clio Dynamique TCE 100 My19 5DR V,1,Petrol,17999,2020,1750,Cork
+1132,Renault Scenic 1.5dci Tomtom 5 Seater High Spec,1.5,Diesel,278100,2010,17995,Carlow
+1133,Renault Scenic 1.5dci Tomtom 5 Seater High Spec,1.5,Diesel,278100,2010,22250,Carlow
+1134,Renault Arkana R.s. Line TCE 140 Auto Mild Hybrid,1.3,Petrol,29015,2021,22250,Carlow
+1135,Renault Arkana R.s. Line TCE 140 Auto Mild Hybrid,1.3,Petrol,29015,2021,25490,Carlow
+1136,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,25490,Dublin
+1138,Renault clio IV Dynamique,1.1,Petrol,106000,2013,18450,Meath
+1142,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,60239,Carlow
+1143,Renault Grand Scenic 1.5 DCI Dynamique NAV 110BHP,1.5,Diesel,165242,2018,47950,Carlow
+1151,Renault KADJAR 1.2 Dynamique NAV TCE 5 5DR SUV .f,1.2,Petrol,83676,2017,26951,Meath
+1152,Renault KADJAR 1.2 Dynamique NAV TCE 5 5DR SUV .f,1.2,Petrol,83676,2017,18450,Meath
+1153,Car,1.5,Diesel,178790,2010,18450,Cork
+1154,Car,1.5,Diesel,178790,2010,15495,Cork
+1155,Renault Grand Scenic 1.5 DCI Expression 110 110BH,1.5,Diesel,241401,2011,20995,Dublin
+1157,Renault clio IV Dynamique,1.1,Petrol,106000,2013,33949,Meath
